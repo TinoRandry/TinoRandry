@@ -1,9 +1,9 @@
-## Hi 👋
+<div align="center">
+<h1>Hi👋🏻</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Tino+Randry;Telecom+Student;DevOps+%26+Cybersecurity+Learner" alt="Typing SVG"/>
 </h1>
-
-## 🛠 My Stack
+  
 <p align="center">
   <!-- Programming & Web -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
@@ -39,8 +39,15 @@
   <img src="https://img.shields.io/badge/Security-Firewall-FF0000?style=for-the-badge&logo=none&logoColor=white" alt="Firewall"/> 
   <img src="https://img.shields.io/badge/VPN-6C63FF?style=for-the-badge&logo=none&logoColor=white" alt="VPN"/>
 </p>
+### 📈 GitHub stats : 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=laza-niaina&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=laza-niaina&hide_title=true&count_private=true&show_icons=true&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laza-niaina&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC&langs_count=8">
+</p>
+<div align="center">
 
-## 📫 How to Reach Me
+<h2> 📫 How to Reach Me </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Email-tinorandry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </p>
