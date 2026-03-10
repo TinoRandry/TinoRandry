@@ -41,9 +41,9 @@
 </p>
 ### 📈 GitHub stats : 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=laza-niaina&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=laza-niaina&hide_title=true&count_private=true&show_icons=true&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laza-niaina&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC&langs_count=8">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TinoRandry&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TinoRandry&hide_title=true&count_private=true&show_icons=true&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoRandry&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC&langs_count=8">
 </p>
 <div align="center">
 
