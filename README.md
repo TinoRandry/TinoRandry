@@ -3,12 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Tino+Randry;Telecom+Student;DevOps+%26+Cybersecurity+Learner" alt="Typing SVG"/>
 </h1>
 
-## 💻 Programming Languages
+## 💻 Programming Languages & Web
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
 ## 🗄 Databases
