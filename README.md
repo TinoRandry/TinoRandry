@@ -1,7 +1,7 @@
 ## Hi, I'm Tino
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0A0A0A&center=true&vCenter=true&width=600&lines=I'm+Tino+Randry;Telecom+Student;DevOps;Cybersecurity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Tino+Randry;Telecom+Student;DevOps;Cybersecurity" alt="Typing SVG"/>
 </p>
 
 <!--
