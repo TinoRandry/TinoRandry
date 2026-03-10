@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Security-Firewall-FF0000?style=for-the-badge&logo=none&logoColor=white" alt="Firewall"/> 
   <img src="https://img.shields.io/badge/VPN-6C63FF?style=for-the-badge&logo=none&logoColor=white" alt="VPN"/>
 </p>
-### 📈 GitHub stats : 
+<h4> 📈 GitHub stats : </h4>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TinoRandry&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=TinoRandry&hide_title=true&count_private=true&show_icons=true&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC">
