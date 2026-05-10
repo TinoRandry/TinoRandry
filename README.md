@@ -41,6 +41,7 @@
 </p>
 
 <div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TinoRandry&hide=contribs,prs)
 
 <h2> 📫 How to Reach Me </h2>
 <p align="center">
